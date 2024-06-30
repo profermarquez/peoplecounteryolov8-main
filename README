@@ -1,0 +1,9 @@
+# Paso 1: 
+Descargar video del enlace
+# Paso 2: 
+Crear el entorno virtual y activarlo: 
+    virtuanenv env   
+    /env/Scripts/activate
+# Paso 3:
+Instalar dependencias:
+pip install opencv-python yolov8 pandas
